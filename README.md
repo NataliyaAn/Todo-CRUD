@@ -1,9 +1,7 @@
 # React TypeScript Starter Pack
 
-To use this template click `Use this template`
+Implementation a solution for CRUD todos.
+Use the React, TypeScript.
+BASE_URL = 'https://mate.academy/students-api';
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+[DEMO LINK](https://NataliyaAn.github.io/todo-crud/)
